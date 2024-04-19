@@ -1,7 +1,6 @@
 # dolu_hud
 QBox dolu_hud edit <br>
-Simple and clea
-nr player and status HUD made with React
+Simple and clean player and status HUD made with React
 
 # Preview
 ![imagem](https://github.com/Marttins011/dolu_hud/assets/89866234/6094e700-2aa2-4304-b675-33b158305f60)
