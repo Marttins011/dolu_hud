@@ -2,7 +2,7 @@ RegisterNetEvent('qbx_core:client:onSetMetaData', function(key, oldValue, newVal
 	statuses = {
 		hunger = QBX.PlayerData.metadata.hunger,
 		thirst = QBX.PlayerData.metadata.thirst,
-		stress = statuses.stress or 0
+		stress = 0
 	}
 	SendNUIMessage({ action = 'setStatuses', data = { statuses = statuses } })
 	utils.debug(1, json.encode(statuses, {indent=true}))
