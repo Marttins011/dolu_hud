@@ -10,7 +10,7 @@ Simple and clean player and status HUD made with React
 - Changed speedo backgroud
 - Added new minimap
 - Made minimap for multiple resolutions
-- Changed the status to disapear at 100% and not at 100%
+- Changed the status to disapear at 100% and not at 0%
 - Made to work with QBox player metadata
 - Removed top screen information
 - Made some fixes at HUD load
