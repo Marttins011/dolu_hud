@@ -1,0 +1,8 @@
+{
+  "debug": true,
+  "speedo": true,
+  "hideRadarOnFoot": true,
+  "speedoMetrics": "kmh",
+  "seatbeltKey": "B",
+  "setMaxHealth": true
+}
